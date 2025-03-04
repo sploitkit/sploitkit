@@ -33,7 +33,7 @@ Cybersecurity enthusiast with 10+ years tackling vulnerabilities, pentesting, an
 
 ## Reach Me 📫
 - Email: faramarzi.msg@gmail.com  
-- LinkedIn: [yourprofile](https://www.linkedin.com/in/faramarzi-dst/)  
+- LinkedIn: [My profile](https://www.linkedin.com/in/faramarzi-dst/)  
 
 <!---
 sploitkit/sploitkit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
