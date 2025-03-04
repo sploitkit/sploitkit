@@ -1,4 +1,4 @@
-# Hey, I’m Rasoul Faramarzi!
+# Hey, I’m Rasoul!
 
 Cybersecurity geek with 10+ years tackling vulnerabilities, pentesting, and incident response. Certified CEH, OSCP+, OSWE. I’m here to build cool open-source security tools and share what I know.
 
